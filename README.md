@@ -1,5 +1,5 @@
 # truepseudodenominals
-This is the repo accompanying the paper "The Distinction Between True and Pseudo Denominals? It's an Illusion!". Here you can find the online supplementary information, consisting of the complete table of mean acceptability judgements for similar and non-similar objects for all the denominals, and the full results of the survey in the form of a .csv file.
+This is the repo accompanying the paper "The Distinction Between True and Pseudo Denominals? It's an Illusion!". Here you can find the online supplementary information, consisting of the complete table of mean acceptability judgements for similar and non-similar objects for all the denominals, and the full results of the survey in the form of a .csv file. A pdf version of the table for easier viewing is also available.
 
 The table shows the mean judgements split out per object and per verb, averaged over all participants. The csv file contains each individual rating of each item.
 
